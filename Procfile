@@ -1,1 +1,1 @@
-web: python hello_flask.py
+web: gunicorn app:app
